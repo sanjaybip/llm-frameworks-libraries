@@ -1,2 +1,12 @@
-# llm-frameworks-libraries
-Most popular and active frameworks or libraries used to develop LLMs application.
+# LLM Frameworks and Libraries
+LLM app developmet is new and there is lot of emerging and good framework/libaries/tools to develop AI powered app. Our aim is to mainatin a list of these frameworks
+
+| NAME | LINK |
+| ------ | ------ |
+| Langchain | https://www.langchain.com/ |
+| LlamaIndex | https://www.llamaindex.ai/ |
+| Haystack | https://haystack.deepset.ai/ |
+| Flowise | https://flowiseai.com/ |
+| AutoChain | https://autochain.forethought.ai/examples/ |
+| Langroid | https://langroid.github.io/langroid/ |
+| TXTAI | https://neuml.github.io/txtai/ |
