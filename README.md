@@ -10,5 +10,6 @@ LLM app developmet is new and there is lot of emerging and good framework/libari
 | AutoChain | https://autochain.forethought.ai/examples/ |
 | Langroid | https://langroid.github.io/langroid/ |
 | TXTAI | https://neuml.github.io/txtai/ |
-
+| Eidolon | https://www.eidolonai.com/ |
+---
 Feel free to make a pull request or suggest a new LLM framework. Join our [reddit community](https://www.reddit.com/r/TheLLMStack/) to talk about LLM app development, deployment and operations. 
